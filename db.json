@@ -1,0 +1,11 @@
+{
+  "skills": [
+    { "id": 1, "name": "Deploy" },
+    { "id": 2, "name": "Reindex Elastic" },
+    { "id": 3, "name": "Config Datadog" }
+  ],
+  "users": [
+    { "id": 1, "name": "Pep", "score": 27 },
+    { "id": 2, "name": "Marc", "score": 27 }
+  ]
+}
